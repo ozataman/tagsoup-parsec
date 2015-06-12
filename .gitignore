@@ -1,4 +1,5 @@
 .DS*
 *.o
 *.hi
+*.nix
 dist
